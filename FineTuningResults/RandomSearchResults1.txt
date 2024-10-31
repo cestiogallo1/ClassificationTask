@@ -1,0 +1,2 @@
+Best Params {'n_estimators': 100, 'min_samples_split': 7, 'min_samples_leaf': 5, 'max_features': 7, 'max_depth': 19, 'bootstrap': True}
+Best Score: 0.6606134687310642
